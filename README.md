@@ -36,7 +36,7 @@
 
 1. **Environment Variables**: Set up your Gemini API key
    - Go to the Secrets tab in your Replit workspace
-   - Add a new secret: `GEMINI_API_KEY` with your Google AI API key
+   - Add a new secret: `GEMINI_API_KEY` with your Google AI API key to .env file
    - Get your API key from [Google AI Studio](https://aistudio.google.com/)
 
 ### Automatic Deployment
