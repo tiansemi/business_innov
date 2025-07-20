@@ -1,5 +1,5 @@
 
-# ExpGainer - Business Assistant Platform
+# Business Innov - Business Assistant Platform
 
 🚀 An AI-powered business consultation platform that helps entrepreneurs in Côte d'Ivoire start and develop their business activities.
 
