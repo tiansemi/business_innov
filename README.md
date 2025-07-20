@@ -147,14 +147,3 @@ To customize the application:
 2. **AI Prompts**: Modify the prompt templates in `main.py`
 3. **Styling**: Update Chakra UI themes in `expgainer/pages/_app.js`
 4. **Voice Settings**: Adjust TTS parameters in the voice handling functions
-
-### Support
-
-For deployment issues:
-- Check Replit's deployment documentation
-- Use the Console tab to debug issues
-- Ensure all environment variables are properly set
-
----
-
-**Note**: This application is specifically designed for deployment on Replit. All configurations are optimized for the Replit environment, including port forwarding, environment variable management, and automatic dependency installation.
